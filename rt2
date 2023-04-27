@@ -1,0 +1,87 @@
+<html>
+    <body>
+        <header>
+        <h1><a class="buttons" href="index.html">Головна</a></h1><h1><a class="buttons" href="rt3">Магазин деталей</a></h1>
+        </header>
+        <div><h3>49899ГРН</h3><img src="https://alfa-server.com.ua/image/cache/catalog/WS_Intel_Xeon_2%D1%85E5_2697v3_64_8_-1000x1000.jpg"width="700"><h3>Двухпроцессорная рабочая станция #22 2x Intel Xeon E5 2697v3 28 ядер, 56 потоков, ОЗУ 64 GB, NVIDIA Quadro M4000 8GB</h3><div class="buttoms"><a class="buttons" href="https://alfa-server.com.ua/ru/ws-visualization/ws_2%D1%85E5_2697v3_top_64_8gb"><h3>ПРИДБАТИ</h3></a></div>
+        <div class="lori"><h3>34 199 грн</h3>
+        <img src="https://compx.ua/content/images/48/800x800l80mc0/40923494345734.webp"width="700">
+        <h3>Комп'ютер CompX Master Leon Legend (RTX 3070, AMD Ryzen 5 5500, DDR4 16Gb, SSD 480Gb)</h3>
+        <div class="buttoms"><a class="buttons" href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiW-az_vMf-AhVSC6IDHcKSBZgYABAMGgJsZQ&ohost=www.google.com&cid=CAESbeD2697g-vD_L-_ywI_vDyVkp4SE04xzB_y8Wtyeob4QT-ynPQxEgzjH0qKIshidx5WXs4LPTGKJG0NqvVluY3jOrjfXcT55Ou9KeXrRkzDfKZij82_qVWNuo4OZCDKJwmJlRQjh73LhCEkPtQM&sig=AOD64_26eWuqhtVrbLej3faW5qCB4wynBQ&ctype=5&q=&ved=2ahUKEwj_tqf_vMf-AhU_CBAIHf3YBLcQ9aACKAB6BAgFEBQ&adurl="><h3>ПРИДБАТИ</h3></a></div>
+        </div>
+        </div>
+        <div class="toloh">
+            <h3>27499ГРН</h3>
+            <img src="https://content1.rozetka.com.ua/goods/images/big/35111166.jpg"width="700">
+            <h3>Корпус: Gamemax StarLight W-Blue
+
+Процессор: Ryzen 5 3600 6-Ядер 3.6 - 4.2GHz Turbo, AM4, 65W TDP
+
+Охлаждение процессора: Боксовый кулер процессор
+
+Оперативная Память: 16 GB [16 GB x1] DDR4-2666
+
+Видеокарта: NVIDIA GeForce GTX 1660, 6GB Super
+
+Материнская плата: Socket AM4 (AMD B450 Chipset, 2 x DDR4, mATX)
+
+Блок питания: 500W DeepCool
+
+Жесткий диск: 1TB TOSHIBA Hard Drive - 64MB Cache, 7200RPM, 6.0Gb/s
+
+SSD накопитель: 240 GB GOODRAM M.2</h3>
+<div class="buttoms"><a class="buttons" href="https://www.google.com/aclk?sa=l&ai=DChcSEwiPrbq1w8f-AhV4R5EFHULSAM8YABAPGgJscg&sig=AOD64_02fZFrVUwoN4HfRvBkSjnuhsjvKg&ctype=5&q=&ved=0ahUKEwihg7a1w8f-AhUt_SoKHbbZCiQQww8I1Ag&adurl="><h3>ПРИДБАТИ</h3></a></div>
+        </div>
+        <div class="lolo">
+            <h3>36594ГРН</h3>
+            <img src="https://content1.rozetka.com.ua/goods/images/big/256548034.jpg"width="700">
+            <h3>Intel Core i5-11400F (2.6 - 4.4 ГГц) / RAM 16 ГБ / HDD 2 ТБ + SSD 480 ГБ / nVidia GeForce RTX 3050, 8 ГБ / без ОД / LAN / без ОС</h3>
+          <div class="cocolat">  <a class="buttons" href="https://www.google.com/aclk?sa=l&ai=DChcSEwiAhumjxcf-AhXDCHsKHZvTDJcYABBDGgJsZQ&sig=AOD64_3qWsX62x-2AOFuGrm-fhqSdjOEWA&ctype=5&q=&ved=0ahUKEwiPuOSjxcf-AhUE-yoKHWfRAgQQ9A4I7A8&adurl="><h3>ПРИДБАТИ</h3></a></div>
+        </div>
+        <h3>Якщо хочете зробити власну збірку чи задати питання то писати сюди 063 977 68 56</h3>
+    </body>
+</html>
+<style>
+body {
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    background-color: rgb(129, 129, 255);
+    border:10px solid rgb(255, 5, 5);
+     border-radius: 58px;
+}
+.buttons:hover{
+    color: rgb(6, 209, 245);
+    background-color: rgb(151, 44, 103);
+}
+h3{
+   text-align: center;
+}
+div{
+    background-color: rgb(200, 200, 255);
+}
+div{
+    width: 750px;
+}
+.buttoms{
+    background-color: rgb(180, 180, 194);
+}
+.lori{
+    background-color: blue;
+    justify-content: center;
+    width:750px ;
+}
+.toloh{
+    background-color: rgb(101, 212, 125);
+}
+.cocolat{
+    background-color: rgb(204, 209, 226);
+}
+.lolo{
+    background-color: deepskyblue;
+}
+</style>
