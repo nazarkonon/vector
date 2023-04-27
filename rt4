@@ -1,0 +1,61 @@
+<html>
+    <body>
+        <header>
+            <h1><a class="buttons" href="rt2">Збірка</a></h1>
+            <h1><a class="buttons" href="index.html">Головна</a></h1>
+        </header>
+         <h1 class="pocs">Процесори</h1>
+          <div class="vivi"> <h1>14 917ГРН</h1></div>
+          <div class="gallery">
+          <img src="https://compx.ua/content/images/14/800x800l80mc0/88063412096036.webp"width="350">
+                <img src="https://compx.ua/content/images/14/200x200l80mc0/97334723979358.webp"width="350">
+                <h1>Процессор Intel Core i9-11900KF 3.5GHz/16MB (BX8070811900KF) s1200 BOX</h1>
+          </div>
+          <div class="pc"><a class="buttons" href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjNo8P7osr-AhUK4bIKHX48BYMYABAMGgJscg&ohost=www.google.com&cid=CAESbeD20INJ3L66_tzKPgbjyXOtQym0ZvkXjnRX8xIPZUhCgLciIR3_sjRM1gkKTY4ur32mcAhkpW_2wQ6Hm-zo6TUyMpKe049AFwI8nIFC7nk2pDebzQZzw16N1kjChmkfuYkgka1PzqJ4Xn3OOGM&sig=AOD64_0Sd_0fWSDm741fEM5V6GQXZ61v8w&ctype=5&q=&ved=2ahUKEwj8mLf7osr-AhVnwIsKHeJADLkQ9aACKAB6BAgCEBQ&adurl="><h3>ПРИДБАТИ</h3></a></div>
+          <div class="vivi"> <h1>5 249ГРН</h1></div>
+          <div class="gallery">
+          <img src="https://img.ktc.ua/img/base/1_505/8/383538.jpg"width="350">
+          <img src="https://img.ktc.ua/img/base/1_505/8/358078.jpg"width="350">
+                <h1>Процесор AMD Ryzen 5 5600G Tray (100-000000252)</h1>
+          </div>
+          <div class="pc"><a class="buttons" href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjPzuKNpMr-AhWGQpEFHUhgD-4YABAMGgJscg&ohost=www.google.com&cid=CAESbeD2M0zo3Gc0SAxL8yNlWYqh8rhHeWn5CAVlKj1JsiizrdNGCcmu9o_UBArwP4VTCADy0Xle7Zrt89sGU1R6r5I3BnUo_anFxt7UThOgzyGppGt0jEbiga9KzwzSjUSdrYRbZPycWxljja7uLso&sig=AOD64_0uENwPnnoPZooUEB7r6RWZKCn55w&ctype=5&q=&ved=2ahUKEwiatteNpMr-AhVZBxAIHTXiDO8Q9aACKAB6BAgDEA0&adurl="><h3>ПРИДБАТИ</h3></a></div>
+           <a href="rt5"><h1>Блоки живлення</h1></a>
+    </body>
+</html>
+<style>
+
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(129, 129, 255);
+    border:10px solid rgb(255, 5, 5);
+     border-radius: 58px;
+}
+h1{
+    text-align: center;
+}
+.buttons:hover{
+    color: rgb(6, 209, 245);
+    background-color: rgb(151, 44, 103);
+}
+.pocs{
+    color: aqua;
+    text-align: center;
+}
+.gallery{
+    display: flex;
+
+}
+.pc{
+    text-align: center;
+    background-color: rgb(229, 145, 255);
+    border:10px solid blueviolet;
+    border-radius: 40px;
+}
+.pc:hover{  
+color: rgb(255, 205, 233);
+background-color: rgb(255, 47, 47); 
+transition: 5s linear;
+}
+</style>
