@@ -1,0 +1,61 @@
+<html>
+    <body>
+        <header>
+            <h1><a class="buttons" href="rt2">Збірка</a></h1>
+            <h1><a class="buttons" href="index.html">Головна</a></h1>
+        </header>
+         <h1 class="pocs">Корпуси</h1>
+          <div class="vivi"> <h1>1999 ГРН</h1></div>
+          <div class="gallery">
+          <img src="https://bestseller.kiev.ua/upload/resize_cache/iblock/530/400_400_140cd750bba9870f18aada2478b24840a/jjlo6l7p15fvyrcx9exkj3s45lbl5z38.webp"width="350">
+                <img src="https://content1.rozetka.com.ua/goods/images/big/75208692.jpg"width="350">
+                <h1>Корпус Aerocool Hive FRGB V2 Black (HIVE-G-BK-V2)</h1>
+          </div>
+          <div class="pc"><a class="buttons" href="https://hard.rozetka.com.ua/275067953/p275067953/"><h3>ПРИДБАТИ</h3></a></div>
+          <div class="vivi"> <h1>1580 ГРН</h1></div>
+          <div class="gallery">
+          <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLyLPe-kxB4oTj3V63rw8_Kuo_obkLpKLA_6vqHdKfoWpgVpMxBkA1nW0-cCGZd-HWyo56FpurZuOWgx-DJGdUZBwo-2DaDMRIRPvHnRlTVvuwfwiOvv6F&usqp=CAE"width="350">
+          <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQi-OVA1ZbAHaqhbme1QT65pNIc0DbqGiYmCISVMlLcK9MD45Cl6g0XcJyTYfEoCrB-Q131YqLXGMr6w2YJxQ16pgzjHCwLkg&usqp=CAE"width="350">
+                <h1>Корпус Xigmatek Vortex Black (EN46171) (D)</h1>
+          </div>
+          <div class="pc"><a class="buttons" href="https://hard.rozetka.com.ua/xigmatek_en46171/p292965483/"><h3>ПРИДБАТИ</h3></a></div>
+           <a href="rt7"><h1>Материнські плати</h1></a>
+    </body>
+</html>
+<style>
+
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(129, 129, 255);
+    border:10px solid rgb(255, 5, 5);
+     border-radius: 58px;
+}
+h1{
+    text-align: center;
+}
+.buttons:hover{
+    color: rgb(6, 209, 245);
+    background-color: rgb(151, 44, 103);
+}
+.pocs{
+    color: aqua;
+    text-align: center;
+}
+.gallery{
+    display: flex;
+
+}
+.pc{
+    text-align: center;
+    background-color: rgb(229, 145, 255);
+    border:10px solid blueviolet;
+    border-radius: 40px;
+}
+.pc:hover{  
+color: rgb(255, 205, 233);
+background-color: rgb(255, 47, 47); 
+transition: 5s linear;
+}
+</style>
