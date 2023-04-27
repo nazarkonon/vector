@@ -1,0 +1,61 @@
+<html>
+    <body>
+        <header>
+            <h1><a class="buttons" href="rt2">Збірка</a></h1>
+            <h1><a class="buttons" href="index.html">Головна</a></h1>
+        </header>
+         <h1 class="pocs">Блоки живлення</h1>
+          <div class="vivi"> <h1>2 699 грн</h1></div>
+          <div class="gallery">
+          <img src="https://img.ktc.ua/img/base/1/3/174323.jpg"width="350">
+                <img src="https://img.ktc.ua/img/base/1/4/174324.jpg"width="350">
+                <h1>Блок живлення Chieftec 600W Proton (BDF-600S)</h1>
+          </div>
+          <div class="pc"><a class="buttons" href="https://www.google.com/aclk?sa=l&ai=DChcSEwiVnIa9psr-AhXZBaIDHdK1DX4YABABGgJsZQ&sig=AOD64_3HY2XUOveUrJdF_DPGFPN03IJXHg&ctype=5&q=&ved=0ahUKEwi3z4C9psr-AhUUnosKHcbmB9IQww8I5wg&adurl="><h3>ПРИДБАТИ</h3></a></div>
+          <div class="vivi"> <h1>4 516 грн</h1></div>
+          <div class="gallery">
+          <img src="https://img.ktc.ua/img/base/1/9/408629.jpg"width="350">
+          <img src="https://img.ktc.ua/img/base/1/3/408633.jpg"width="350">
+                <h1>Блок живлення Gigabyte 850W UD850GM (GP-UD850GM)</h1>
+          </div>
+          <div class="pc"><a class="buttons" href="https://www.google.com/aclk?sa=l&ai=DChcSEwjCr_uRp8r-AhW_BaIDHSYcDdQYABABGgJsZQ&sig=AOD64_3X1N9CX4-2iQLl6VZYwf3HXI5Bkw&ctype=5&q=&ved=0ahUKEwidhfWRp8r-AhUPl4sKHZ5wACAQww8IkwE&adurl="><h3>ПРИДБАТИ</h3></a></div>
+           <a href="rt6"><h1>Корпуси</h1></a>
+    </body>
+</html>
+<style>
+
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(129, 129, 255);
+    border:10px solid rgb(255, 5, 5);
+     border-radius: 58px;
+}
+h1{
+    text-align: center;
+}
+.buttons:hover{
+    color: rgb(6, 209, 245);
+    background-color: rgb(151, 44, 103);
+}
+.pocs{
+    color: aqua;
+    text-align: center;
+}
+.gallery{
+    display: flex;
+
+}
+.pc{
+    text-align: center;
+    background-color: rgb(229, 145, 255);
+    border:10px solid blueviolet;
+    border-radius: 40px;
+}
+.pc:hover{  
+color: rgb(255, 205, 233);
+background-color: rgb(255, 47, 47); 
+transition: 5s linear;
+}
+</style>
